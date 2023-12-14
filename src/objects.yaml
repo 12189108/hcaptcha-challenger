@@ -53,7 +53,7 @@ nested_categories:
   please click in the center of an observation wheel:
   - observation_wheel_2309_yolov8n.onnx
   please click on the cow's nose:
-  - cownose2312_yolov8s.onnx
+  - cow_nose_2312_yolov8s.onnx
   please click on the object that is rotated with respect to its neighbors:
   - rotated_object2312_yolov8s.onnx
   furniture:
