@@ -52,6 +52,8 @@ nested_categories:
   - most_similar_object_hexagon_2309_yolov8n-seg.onnx
   please click in the center of an observation wheel:
   - observation_wheel_2309_yolov8n.onnx
+  please click on the cow's nose:
+  - cow_nose_2301_yolov8s.onnx
   furniture:
   - nested_furniture_chair2309.onnx
   images of one type that appear warmer in comparison to other:
@@ -181,8 +183,6 @@ ashes_of_war:
   - parrot-head
   digit2_yolov8s.onnx:
   - '2'
-  cow_nose_2312_yolov8s.onnx:
-  - cow-nose
   digit9_yolov8s.onnx:
   - '9'
   COCO2020_yolov8m.onnx:
