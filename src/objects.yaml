@@ -187,6 +187,8 @@ ashes_of_war:
   - '2'
   digit9_yolov8s.onnx:
   - '9'
+  cow_nose_2312_yolov8s.onnx:
+  - cow
   COCO2020_yolov8m.onnx:
   - person
   - bicycle
@@ -207,7 +209,6 @@ ashes_of_war:
   - dog
   - horse
   - sheep
-  - cow
   - elephant
   - bear
   - zebra
