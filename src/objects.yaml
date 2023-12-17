@@ -188,9 +188,10 @@ ashes_of_war:
   digit9_yolov8s.onnx:
   - '9'
   cow_nose2312_yolov8s.onnx:
-  - cow
+  - nose
   donut_sand2312_yolov8s.onnx:
   - donut
+  - sand
   COCO2020_yolov8m.onnx:
   - person
   - bicycle
