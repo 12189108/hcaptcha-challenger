@@ -189,6 +189,8 @@ ashes_of_war:
   - '9'
   cow_nose_2312_yolov8s.onnx:
   - cow
+  donut_sand_2312_yolov8s.onnx:
+  - donut
   COCO2020_yolov8m.onnx:
   - person
   - bicycle
@@ -243,7 +245,6 @@ ashes_of_war:
   - carrot
   - hot dog
   - pizza
-  - donut
   - cake
   - chair
   - couch
